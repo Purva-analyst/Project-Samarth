@@ -1,0 +1,5 @@
+state,year,annual_rainfall_mm,source_url
+Gujarat,2018,800,https://data.gov.in/resource/imd_gujarat_2018.csv
+Gujarat,2019,780,https://data.gov.in/resource/imd_gujarat_2019.csv
+Maharashtra,2018,1200,https://data.gov.in/resource/imd_maha_2018.csv
+Maharashtra,2019,1180,https://data.gov.in/resource/imd_maha_2019.csv

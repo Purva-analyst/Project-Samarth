@@ -1,0 +1,16 @@
+{
+  "resources": [
+    {
+      "id": "crop_prod_sample",
+      "title": "Crop Production Sample (district-year)",
+      "url": "backend/sample_data/crop_production_sample.csv",
+      "notes": "Local sample file for demo. Replace with data.gov.in CSV URL when available."
+    },
+    {
+      "id": "imd_rainfall_sample",
+      "title": "IMD Rainfall Sample (state-year)",
+      "url": "backend/sample_data/imd_rainfall_sample.csv",
+      "notes": "Local sample file for demo. Replace with data.gov.in CSV URL when available."
+    }
+  ]
+}

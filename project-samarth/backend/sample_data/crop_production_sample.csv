@@ -1,0 +1,9 @@
+state,district,year,crop,production_tonnes,area_ha,source_url
+Gujarat,Ahmedabad,2018,Wheat,50000,15000,https://data.gov.in/resource/crop_prod_gujarat_2018.csv
+Gujarat,Surat,2018,Rice,80000,20000,https://data.gov.in/resource/crop_prod_gujarat_2018.csv
+Maharashtra,Pune,2018,Rice,120000,30000,https://data.gov.in/resource/crop_prod_maha_2018.csv
+Maharashtra,Nagpur,2018,Wheat,40000,13000,https://data.gov.in/resource/crop_prod_maha_2018.csv
+Gujarat,Ahmedabad,2019,Wheat,52000,15100,https://data.gov.in/resource/crop_prod_gujarat_2019.csv
+Gujarat,Surat,2019,Rice,82000,20200,https://data.gov.in/resource/crop_prod_gujarat_2019.csv
+Maharashtra,Pune,2019,Rice,125000,30500,https://data.gov.in/resource/crop_prod_maha_2019.csv
+Maharashtra,Nagpur,2019,Wheat,39000,12900,https://data.gov.in/resource/crop_prod_maha_2019.csv
